@@ -1,7 +1,12 @@
-body{
+header{
 background-color: rgb(223, 135, 216) ;
 
 }
+
+body{
+    blackground: linear-gradient (to botton,blue, pink );
+}
+
 
 h1 {
     text-align: center;
